@@ -1,0 +1,22 @@
+[
+  {
+    "label": "National ID",
+    "value": "National ID"
+  },
+  {
+    "label": "Passport",
+    "value": "Passport"
+  },
+  {
+    "label": "Driver’s License, Voter ID",
+    "value": "Driver’s License"
+  },
+  {
+    "label": "Voter ID",
+    "value": "Voter ID"
+  },
+  {
+    "label": "Other",
+    "value": "Other"
+  }
+]
